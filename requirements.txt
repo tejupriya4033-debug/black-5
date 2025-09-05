@@ -1,6 +1,7 @@
 streamlit
-Wikipedia
 speechrecognition
-googlesearch-python
-requests
 beautifulsoup4
+wikipedia
+requests
+streamlit-webrtc
+
